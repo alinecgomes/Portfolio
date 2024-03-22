@@ -19,3 +19,9 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra suave ao contêiner. */
     text-align: center; /* Centraliza o texto dentro do contêiner horizontalmente. */
 }
+
+img {
+    max-width: 100px; /* Define a largura máxima da imagem como 100 pixels */
+    border: 3px solid #ddd; /* Adiciona uma borda de 3 pixels com cor cinza claro */
+    border-radius: 50%; /* Define um raio de borda para criar uma forma circular */
+}
