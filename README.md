@@ -19,6 +19,6 @@ Aqui estão algumas etapas para explorar o conteúdo:
 
 ## Primeiras Etapas
 
-Comece visitando a página em seu navegador da web: (link)
+Comece visitando a página em seu navegador da web: https://alinecgomes.github.io/Portfolio/
 
 Se você tiver alguma dúvida ou quiser saber mais, fique à vontade para explorar! 😊
