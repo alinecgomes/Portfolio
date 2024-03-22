@@ -1,1 +1,21 @@
+body {
+    font-family: Arial, sans-serif; /* Define a fonte do texto como Arial ou uma fonte genérica sem serifa. */
+    background-color: #f0f0f0; /* Define a cor de fundo do corpo da página como um tom de cinza claro (#f0f0f0). */
+    display: flex; /* Usa o modelo de layout flex para organizar os elementos filhos. */
+    justify-content: center; /* Centraliza os elementos horizontalmente dentro do corpo da página. */
+    align-items: center; /* Centraliza os elementos verticalmente dentro do corpo da página. */
+    height: 100vh; /* Define a altura do corpo da página como 100% da altura da viewport (altura visível da janela do navegador). */
+    margin: 0; /* Remove as margens padrão do corpo da página. */
+}
 
+.container {
+    width: 480px; /* Define a largura do contêiner como 480 pixels. */
+    margin: 0 auto; /* Centraliza o contêiner horizontalmente dentro do corpo da página. */
+    padding: 20px; /* Adiciona um preenchimento interno de 20 pixels ao redor do contêiner. */
+    height: 600px; /* Define a altura do contêiner como 600 pixels. */
+    background-color: #111b36; /* Define a cor de fundo do contêiner como um tom de azul escuro (#111b36). */
+    color: #eaeaea; /* Define a cor do texto dentro do contêiner como um tom de cinza claro (#eaeaea). */
+    border-radius: 10px; /* Adiciona bordas arredondadas ao contêiner com um raio de 10 pixels. */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra suave ao contêiner. */
+    text-align: center; /* Centraliza o texto dentro do contêiner horizontalmente. */
+}
