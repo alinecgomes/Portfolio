@@ -25,3 +25,21 @@ img {
     border: 3px solid #ddd; /* Adiciona uma borda de 3 pixels com cor cinza claro */
     border-radius: 50%; /* Define um raio de borda para criar uma forma circular */
 }
+
+/* Define a classe .nav para exibir os elementos em uma linha flexível (inline-flex) e adicionar uma margem inferior de 30 pixels. */
+.nav {
+    display: inline-flex;
+    margin-bottom: 30px;
+}
+
+/* Define a classe .link com margem de 10 pixels, cor azul (#0074d9) e sem decoração de texto. */
+.link {
+    margin: 10px;
+    color: #0074d9;
+    text-decoration: none;
+}
+
+/* Define o comportamento da classe .link quando o cursor paira sobre ela, adicionando uma linha de sublinhado. */
+.link:hover {
+    text-decoration: underline;
+}
