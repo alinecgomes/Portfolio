@@ -43,3 +43,19 @@ img {
 .link:hover {
     text-decoration: underline;
 }
+
+/* Oculta as seções desnecessárias por padrão */
+#sobre-mim,
+#formacao,
+#portfolio,
+#contato {
+    display: none;
+}
+
+/* Mostra a seção alvo quando o link correspondente é clicado */
+#sobre-mim:target,
+#formacao:target,
+#portfolio:target,
+#contato:target {
+    display: block;
+}
