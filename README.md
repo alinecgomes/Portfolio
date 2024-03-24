@@ -17,8 +17,5 @@ Aqui estão algumas etapas para explorar o conteúdo:
 --estilo.css
 ```
 
-## Primeiras Etapas
-
-Comece visitando a página em seu navegador da web: https://alinecgomes.github.io/Portfolio/
-
-Se você tiver alguma dúvida ou quiser saber mais, fique à vontade para explorar! 😊
+Se você tiver alguma dúvida ou quiser saber mais, fique à vontade para explorar! 😊  
+<a href="https://alinecgomes.github.io/Portfolio/?#sobre-mim" target="_blank">https://alinecgomes.github.io/Portfolio</a>
