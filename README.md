@@ -18,4 +18,4 @@ Aqui estão algumas etapas para explorar o conteúdo:
 ```
 
 Se você tiver alguma dúvida ou quiser saber mais, fique à vontade para explorar! 😊  
-<a href="https://alinecgomes.github.io/Portfolio/?#sobre-mim" target="_blank">https://alinecgomes.github.io/Portfolio</a>
+<a href="https://alinecgomes.github.io/Portfolio/?#sobre-mim" target="_blank">alinecgomes.github.io/Portfolio</a>
