@@ -64,7 +64,7 @@ img {
 .container div {
     width: 100%;
     max-width: 300px; /* Ajuste a largura do formulário */
-    height: 260px;
+    height: 285px;
     margin: 0 auto; /* Centralize horizontalmente */
     border: 1px solid #ddd;
     padding: 10px;
